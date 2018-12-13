@@ -1,0 +1,96 @@
+
+
+div {
+	margin-bottom: 30px;
+}
+
+#id_selector {
+	
+}
+
+#id_selector h1 {
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+#id_selector{
+
+}
+
+#btn {
+	background: maroon;
+	color: oldlace;
+	padding: 10px 30px;
+	font-size: 20px;
+}
+
+.cls{
+    width:100px;
+    height: 100px;
+    background: orangered;
+}
+
+.element p {
+	font-size: 24px;
+}
+
+.btn_effects button{
+   background-color: yellow;
+   color:black;
+   padding:10px;
+}
+
+/*jquery slide start*/
+
+.slide_effect {
+
+}
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;}
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+/*jquery slide end*/
+
+/*jquery Nth element selector start*/
+
+.odd{
+    background: orange;
+    padding: 10px;
+}
+.even{
+    background: skyblue;
+    padding: 10px;
+}
+
+.first{
+    background: #b2dba1;
+    padding: 10px;
+}
+.last{
+    background: #f2dede;
+    padding: 10px;
+}
+.nth{
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+
+/*jquery Nth element selector end*/
+
+/*form start*/
+.fn{
+    border: 2px solid red;
+}
+
+/*form end*/
+
+
+
